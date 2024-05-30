@@ -1,2 +1,2 @@
 # bussen-programmering1
-Programmering 1 på Hermods slutprojekt "bussen"
+slutprojekt "bussen", Programmering 1 i python på Hermods av Ludwig Carlegrund
